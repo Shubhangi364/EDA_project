@@ -1,8 +1,15 @@
-# EDA_project
-This is my repo for first EDA project where analyze the car price sales problem
-- point 1
-- point 2
-___
-```
-print('Hello World')
-```
+# My repo for first project at INSAID
+## Here is the list of projects
+
+- Finance
+- Banking
+- Sales
+- EDA project_Car_Sales
+
+|  Finance Project |   |
+| :------------ | :------------ |
+| | Banking Project   |
+| Sales  |   |
+| [EDA project](Car_Sell.jpeg (1772×1181) (raw.githubusercontent.com "EDA project")  | EDA project_Car_Sales  |
+
+
